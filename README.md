@@ -6,6 +6,8 @@ Validation led to a stacked model of LR for numerical and continuous features an
 
 sklearn was used for testing, however there are manual implementations of all models with no external ML library used, only training weights from the trained sklearn models were used (not included).
 
+**Note:** Project done in collaboration with three other developers for a machine learning project. All code created without AI through research and learnt topics. No weights nor datasets included to respect the course's requirements.
+
 Below are relavant investigations and statistics from the models.
 
 <img width="989" height="790" alt="feature_correlation" src="https://github.com/user-attachments/assets/383da914-373c-4f5d-a324-ec0eb3fd8c69" />
